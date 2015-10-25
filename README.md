@@ -1,5 +1,5 @@
 # ImperialMarch
-Imperial March as a bit test for Teensy 3.1
+Imperial March Arduino sketch as a beep test for Teensy 3.1
 
 A small tone example to play the demo from 
 http://www.instructables.com/id/How-to-easily-play-music-with-buzzer-on-arduino-Th/
