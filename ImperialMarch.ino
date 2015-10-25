@@ -1,11 +1,8 @@
 #include "notes.h"
 #define PIN_TONE 9
-#define PIN_TONE2 4
 
 void setup() {     
   pinMode(PIN_TONE, OUTPUT);   
-  //digitalWrite(9,LOW);
-  //Serial.begin(115200);
 }
 
 int score[]={
